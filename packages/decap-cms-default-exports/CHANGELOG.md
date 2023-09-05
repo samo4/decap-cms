@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 3.1.0 (2023-09-05)
+
+
+### Features
+
+* rename packages ([#6863](https://github.com/decaporg/decap-cms/issues/6863)) ([d515e7b](https://github.com/decaporg/decap-cms/commit/d515e7bd33216a775d96887b08c4f7b1962941bb))
+
+
+
+
+
 # [3.0.0](https://github.com/decaporg/decap-cms/compare/decap-cms-default-exports@2.5.0...decap-cms-default-exports@3.0.0) (2023-08-18)
 
 **Note:** Version bump only for package decap-cms-default-exports

@@ -3,6 +3,32 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 3.3.0 (2023-09-05)
+
+
+### Bug Fixes
+
+* adding multiple images via media library ([b1a6a63](https://github.com/decaporg/decap-cms/commit/b1a6a634f86b426db92a21fa04c32836fa760721))
+* fill from locale error if undefined ([#6897](https://github.com/decaporg/decap-cms/issues/6897)) ([2c8aaf8](https://github.com/decaporg/decap-cms/commit/2c8aaf8c589da8436588b33261e6af9701d59b42))
+* lint medialibrary ([39932d2](https://github.com/decaporg/decap-cms/commit/39932d27540480c56b3afc2a816a48a886cfc4d6))
+* update peer dependencies ([#6886](https://github.com/decaporg/decap-cms/issues/6886)) ([e580ce5](https://github.com/decaporg/decap-cms/commit/e580ce52ce5f80fa040e8fbcab7fed0744f4f695))
+
+
+### Features
+
+* changed minimum of 2 locales to minimum of 1 ([#6406](https://github.com/decaporg/decap-cms/issues/6406)) ([f3a30b5](https://github.com/decaporg/decap-cms/commit/f3a30b56090d57163ee70dcb12b024706dbc086b))
+* register custom formats take 2 ([#6205](https://github.com/decaporg/decap-cms/issues/6205)) ([b3d41ea](https://github.com/decaporg/decap-cms/commit/b3d41eaede2253b92b52fba3c49968d20abe86b0))
+* rename packages ([#6863](https://github.com/decaporg/decap-cms/issues/6863)) ([d515e7b](https://github.com/decaporg/decap-cms/commit/d515e7bd33216a775d96887b08c4f7b1962941bb))
+
+
+### Performance Improvements
+
+* filter by path when loading collection from github backend ([#6898](https://github.com/decaporg/decap-cms/issues/6898)) ([18ef773](https://github.com/decaporg/decap-cms/commit/18ef773f35db1b7ef3ab5a0f25527d87745b9c73))
+
+
+
+
+
 ## [3.2.2](https://github.com/decaporg/decap-cms/compare/decap-cms-core@3.2.1...decap-cms-core@3.2.2) (2023-08-25)
 
 

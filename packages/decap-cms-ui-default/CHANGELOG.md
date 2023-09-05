@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 3.1.0 (2023-09-05)
+
+
+### Features
+
+* rename packages ([#6863](https://github.com/decaporg/decap-cms/issues/6863)) ([d515e7b](https://github.com/decaporg/decap-cms/commit/d515e7bd33216a775d96887b08c4f7b1962941bb))
+
+
+
+
+
 ## [3.0.1](https://github.com/decaporg/decap-cms/compare/decap-cms-ui-default@3.0.0...decap-cms-ui-default@3.0.1) (2023-08-25)
 
 **Note:** Version bump only for package decap-cms-ui-default
